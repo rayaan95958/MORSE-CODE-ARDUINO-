@@ -6,4 +6,4 @@ Writing a C code to convert entered message into morse code and then beep it thr
 
 
 
-(To add image in readme: uplaod on imgur, then right click, copy image address and put inside ![]( ) )
+(To add image in readme: uplaod on imgur, then right click, copy image address and put inside "![](   )" )
