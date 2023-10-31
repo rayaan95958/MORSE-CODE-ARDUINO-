@@ -1,6 +1,4 @@
 # MORSE-CODE-ARDUINO-
-Writing a C code to convert entered message into morse code and then beep it through a buzzer via arduino.
-
 
 In the C code,the entered string is converted into lines of numbers(where 1 is a dot, 2 is a dash, each new letter preceded by 3 and new word preceded by 4).
 
