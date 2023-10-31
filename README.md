@@ -2,7 +2,7 @@
 
 In the C code,the entered string is converted into lines of numbers(where 1 is a dot, 2 is a dash, each new letter preceded by 3 and new word preceded by 4).
 
-After an excruciating process of trial and error, found out a way of integrating pure C into the Arduino IDE.
+After an excruciating process of trial and error, found out a way of integrating pure C into the Arduino IDE. Here, decided to drop the use of a structure and changes were made for a few inbuilt functions used.
 
 ![](https://i.imgur.com/MCD800p.png)
 
