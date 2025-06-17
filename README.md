@@ -8,5 +8,3 @@ After an excruciating process of trial and error, found out a way of integrating
 
 
 
-
-(To add image in readme: uplaod on imgur, then right click, copy image address and put inside the above round brackets)
